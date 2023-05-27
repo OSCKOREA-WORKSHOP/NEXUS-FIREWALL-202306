@@ -9,13 +9,8 @@ Nexus Firewall is Sonatype unique offering in the market that not only protect y
 ![image](/img/timetable.png)
 
 # 환경정보
-**Nexus Repository 시스템**
+**Nexus Repository 시스템** <br>
+https://nexus-train.openmsa.monster/
 
-https://nexus-train.openmsa.cloud/ 
-
-**IQ Server 접속**
-
-http://iq-train.openmsa.cloud:8070
-
-
-
+**IQ Server 접속** <br>
+http://iq-train.openmsa.monster:8070
