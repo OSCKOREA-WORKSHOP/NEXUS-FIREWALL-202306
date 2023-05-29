@@ -7,18 +7,18 @@
 
 <br><br>
 
-# Mission #2 (각 언어별 Build 및 패키지 설치, Policy 적용)
+# Mission #2 FW (각 언어별 Build 및 패키지 설치, 방화벽 격리 확인 )
 
-  * **[NPM]** :  NPM Malicious 설치 진행해 보고, 관련 내용에 대해서 살펴 봅니다.
+  * **[NPM]** :  NPM sonatype@policy-demo download 진행해 보고, 관련 내용에 대해서 살펴 봅니다.
    
         npm install @sonatype/policy-demo
 
     >
     
     
-  * **[Maven]** : Sample Maven build 후 보안관련 상황을 살펴보고 IQ Server 를 접속해서, 관련 내용에 대해서 살펴 봅니다.
+  * **[Maven]** : Sample Maven에서 log4j dependency 추가후 build, 관련 내용에 대해서 살펴 봅니다.
   
-        mvn install
+        mvn clean install
     
  
    
