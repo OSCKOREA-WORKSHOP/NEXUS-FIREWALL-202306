@@ -45,7 +45,6 @@ URL : https://www.jetbrains.com/idea/download/#section=windows <br>
 
 ![img](https://github.com/OSCKOREA-WORKSHOP/NEXUS-FIREWALL-202306/blob/master/img/Nexus_LF_ID_img/Intellij_IDE_result.png)
 
-<br><br>
 * 빨간색 박스 : Nexus IQ 확인 및 Component Scan 실행
 * 주황색 박스 : Project Component 확인 및 IQ Policy 확인
 * 초록색 박스 : 주황색 박스에서 클릭한 Component의 세부 정보 권장버전 추천, Version 별 인기도, Policy 등급 등
