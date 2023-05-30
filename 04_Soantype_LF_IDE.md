@@ -32,6 +32,10 @@ URL : https://www.jetbrains.com/idea/download/#section=windows <br>
 <br>
 진행중인 Project에서 아래 그림과 같이 구성설정을 진행하여 IQServer와 연동 합니다. 
 
+* URL : http://iq-train.openmsa.monster:8070/
+* ID : demo-user
+* PW : demo-user
+
 ![img](https://github.com/OSCKOREA-WORKSHOP/NEXUS-FIREWALL-202306/blob/master/img/Nexus_LF_ID_img/Intellij_IQ_Plugin_Configration.png)
 <br>
 <br>
