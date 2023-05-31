@@ -8,6 +8,7 @@
 <br><br>
 
 # Mission #2 FW (각 언어별 Build 및 패키지 설치, 방화벽 격리 확인 )
+- NPM/MAVEN/PYTHON 언어
 
   * **[NPM]** :  NPM sonatype@policy-demo download 진행해 보고, 관련 내용에 대해서 살펴 봅니다.
    
