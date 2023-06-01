@@ -1,4 +1,4 @@
-# Mission #1 (Private Repo 설정)
+# Mission #1 (Private Repo 설정, Proxy Repository Cache 확인)
 가장 많이 사용하는 패키지 관리 툴을 설치하고, Public Repository를 사용하지 않고도 Nexus Repository를 통한 컴포넌트/디펜더시 다운로드할 수 있도록 환경 설정.
 
 
@@ -7,7 +7,7 @@
 
 <br><br>
 
-# Mission #2 FW (각 언어별 Build 및 패키지 설치, 방화벽 격리 확인 )
+# Mission #2 FW (각 언어별 정해진 패키지 Download하여 방화벽 격리 확인 )
 - NPM/MAVEN/PYTHON 언어
 
   * **[NPM]** :  NPM sonatype@policy-demo download 진행해 보고, 관련 내용에 대해서 살펴 봅니다.
@@ -34,4 +34,13 @@
 
 
 mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운로드가 막혀 있는 상태입니다. 하지만 필요에 의해 일정 기간 불가피하게 사용해야 하는 패키지가 있거나, 아직 보안 패치가 나오지 않은 컴포넌트들도 존재합니다. 이때 보안팀과의 검토를 통해 유예(Waive) 설정을 할 수 있습니다. <br/><br/>
+
+
+
+
+# 보너스 Mission
+
+
+Sonatype LifeCycle 기능인 IQ-Server와 IDE 도구를 연동하여 자신이 사용하고있는 컴포넌트의 취약점을 확인해봅니다!
+04_Sonatype_LC_IDE.md 파일 참고하여 진행
 
